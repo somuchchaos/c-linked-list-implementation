@@ -58,7 +58,7 @@ gcc linked_list.c -o linkedlist
 ---
 
 ## 🧪 Sample Menu Output
-![output](output.png)
+![output](output.PNG)
 
 ---
 
